@@ -106,4 +106,12 @@
 
 4. Rumor Detection on Twitter with Tree-structured Recursive Neural Networks
 
-地址：[基于树结构递归神经网络的推特谣言检测(https://www.jianshu.com/p/4fd24f112a64)
+地址：[基于树结构递归神经网络的推特谣言检测](https://www.jianshu.com/p/4fd24f112a64)
+
+5. Interpretable Rumor Detection in Microblogs by Attending to User Interactions
+
+地址：[PLAN：关注用户交互的可解释微博谣言检测](https://www.jianshu.com/p/30f2cca755ac)
+
+6. Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks
+
+地址：[Bi-GCN：基于双向图卷积网络的社交媒体谣言检测](https://www.jianshu.com/p/8c3788c1b0cb)
